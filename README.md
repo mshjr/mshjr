@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Mike Hart 👋
+#  ⚓🔱Mike Hart⚓🔱
 
-### Program & Project Management | Technology | Data Analytics | Operational Leadership
+  ### Program & Project Management | Technology | Data Analytics | Operational Leadership
 
 **15+ years leading complex projects, technical initiatives, cross-functional teams, and high-visibility operations.**
 
@@ -228,7 +228,40 @@ My goal is to use this combination to help organizations **deliver complex initi
 
 # Certifications
 
-> **Certification information will be added here.**
+### Program, Project & Product Management
+
+- **Microsoft Program Manager** — Microsoft · 2025
+- **AI Project Manager Specialist** — IBM · 2025
+- **IT Project Manager** — IBM · 2024
+- **IT Product Manager** — IBM · 2024
+- **IT Scrum Master** — IBM · 2024
+
+### Agile & Delivery
+
+- **Certified ScrumMaster (CSM)** — Scrum Alliance · 2024
+- **Certified Scrum Product Owner (CSPO)** — Scrum Alliance · 2024
+- **Kanban Systems Designer (KSD)** — Kanban University · 2024
+
+### Technology & Software Development
+
+- **Full Stack Software Developer** — IBM · 2024
+
+### Process Improvement & Quality
+
+- **Lean Six Sigma Green Belt** — ASQ · 2021
+- **Lean Six Sigma Yellow Belt** — ASQ · 2019
+
+### Leadership & Professional Development
+
+- **Professional Development Instructor** — Department of the Navy · 2024
+- **Joint Professional Military Education (JPME)** — Naval War College · 2023
+- **Primary Professional Military Education (PPME)** — Naval War College · 2023
+
+### Emergency Management & Operations
+
+- **National Incident Management System (NIMS)** — FEMA · 2018
+- **EOC Management and Operations** — FEMA · 2018
+- **Weather Observer (Professional)** — Department of Labor · 2016**
 
 <!--
 Example:
@@ -244,21 +277,22 @@ Example:
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api?username=mshjr&show_icons=true&hide_border=true&theme=github_dark"
+     alt="Mike Hart's GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="Mike Hart's GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages" />
+<img height="170"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshjr&layout=compact&hide_border=true&theme=github_dark"
+     alt="Mike Hart's Most Used Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mshjr&theme=github-compact&hide_border=true"
+     alt="Mike Hart's GitHub Contribution Graph" />
 
 </div>
-
-> GitHub language statistics reflect the code contained in public repositories and are not intended to represent overall professional proficiency.
 
 ---
 
@@ -298,10 +332,21 @@ I'm interested in opportunities involving:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelshartjr)
-[![Email](https://img.shields.io/badge/Email-mike.s.hart.jr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mike.s.hart.jr@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-181717?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+<a href="https://www.linkedin.com/in/michaelshartjr">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mike.s.hart.jr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mshjr">
+  <img src="https://img.shields.io/badge/GitHub-mshjr-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-181717?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Résumé-Coming%20Soon-444444?style=for-the-badge&logo=readme&logoColor=white" />
 
 </div>
 
